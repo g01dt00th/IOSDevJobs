@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="IOSDevJobs/en.lproj/InfoPlist.strings" source-language="en" target-language="ru" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>IOSDevJobs</source>
+        <target>IOSDevJobs</target>
+        <note>Bundle name</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="IOSDevJobs/en.lproj/Localizable.strings" source-language="en" target-language="ru" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
+    </header>
+    <body>
+      <trans-unit id="%@" xml:space="preserve">
+        <source>%@</source>
+        <target>%@</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="CTO" xml:space="preserve">
+        <source>CTO</source>
+        <target>CTO</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Clear UserDefaults" xml:space="preserve">
+        <source>Clear UserDefaults</source>
+        <target>Очистить UserDefaults</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Continue" xml:space="preserve">
+        <source>Continue</source>
+        <target>Продолжить</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Developer mode selected" xml:space="preserve">
+        <source>Developer mode selected</source>
+        <target>Выбран режим разработчика</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="HR" xml:space="preserve">
+        <source>HR</source>
+        <target>HR</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="HR mode selected" xml:space="preserve">
+        <source>HR mode selected</source>
+        <target>Выбран режим HR</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Junior" xml:space="preserve">
+        <source>Junior</source>
+        <target>Junior</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Just learning" xml:space="preserve">
+        <source>Just learning</source>
+        <target>Только учусь</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="List" xml:space="preserve">
+        <source>List</source>
+        <target>Список</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Loading..." xml:space="preserve">
+        <source>Loading...</source>
+        <target>Загрузка...</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Middle" xml:space="preserve">
+        <source>Middle</source>
+        <target>Middle</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Relocade needed" xml:space="preserve">
+        <source>Relocade needed</source>
+        <target>Требуется переезд</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Senior" xml:space="preserve">
+        <source>Senior</source>
+        <target>Senior</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Settings" xml:space="preserve">
+        <source>Settings</source>
+        <target>Настройки</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Team lead" xml:space="preserve">
+        <source>Team lead</source>
+        <target>Team lead</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Vacancies" xml:space="preserve">
+        <source>Vacancies</source>
+        <target>Вакансии</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="What is your level?" xml:space="preserve">
+        <source>What is your level?</source>
+        <target>Какой у тебя уровень?</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Which side are you on?" xml:space="preserve">
+        <source>Which side are you on?</source>
+        <target>На чьей стороне ты?</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="iOS Developer" xml:space="preserve">
+        <source>iOS Developer</source>
+        <target>iOS Разработчик</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
