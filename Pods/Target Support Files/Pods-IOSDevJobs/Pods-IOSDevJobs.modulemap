@@ -1,0 +1,6 @@
+framework module Pods_IOSDevJobs {
+  umbrella header "Pods-IOSDevJobs-umbrella.h"
+
+  export *
+  module * { export * }
+}
